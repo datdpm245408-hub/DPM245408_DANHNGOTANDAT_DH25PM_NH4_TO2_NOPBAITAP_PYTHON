@@ -1,1 +1,0 @@
-#Python hỗ trợ những kiểu dữ liệu cơ bản nào?
